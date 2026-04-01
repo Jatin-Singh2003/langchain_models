@@ -1,0 +1,6 @@
+id,name,email,course,enrollment_date,experience_level,progress_percent
+1,Jatin,jatin@example.com,AI/ML,2026-03-20,Intermediate,45
+2,Riya,riya@example.com,AI/ML,2026-03-21,Beginner,20
+3,Aman,aman@example.com,AI/ML,2026-03-21,Advanced,70
+4,Sneha,sneha@example.com,AI/ML,2026-03-22,Beginner,15
+5,Rahul,rahul@example.com,AI/ML,2026-03-22,Intermediate,50

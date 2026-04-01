@@ -29,5 +29,5 @@ branch_chain = RunnableBranch(
 
 )
 final_chain = RunnableSequence(report_gen_chain,branch_chain)
-res = final_chain.invoke({'topic': "Iran vs USA"})
+res = final_chain.invoke({'topic': "Iran vs USA War"})
 print(res)

@@ -25,3 +25,8 @@ python-dotenv
 #Machine Learning Utilities
 numpy
 scikit-learn
+
+#Langchain imports
+langchain-community
+langchain-text-splitters
+langchain-huggingface
